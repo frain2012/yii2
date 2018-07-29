@@ -1,0 +1,50 @@
+.input-mini{width:50px;}
+.hide{display:none;}
+.form-horizontal .control-group{margin-bottom: 10px;}
+.form-horizontal .control-label{text-align:left;width:200px; color:#666;}
+.form-horizontal .controls{display:inline;}
+.form-horizontal .controls.inblock{display:inline-block;}
+.form-horizontal .maroon{color:#f30;margin-left:5px;}
+.form-horizontal .form-actions{padding-left:230px;}
+input[type=file]{display:inline;}
+.control-group .float{float:left;margin:20px 80px 50px 0;font-weight:bold;color:#666;}
+.box-title{border-bottom:1px solid #ccc;margin-bottom:10px;}
+.row-fluid{margin-bottom:10px;}
+input,textarea{border:1px solid #b9b9b9;}
+/***向导***/
+.nav-width{border-bottom:0;}
+.nav-width li.active{width:20%;text-align:center;overflow:hidden;height:40px;}
+.nav-width .normal{background:#EEEEEE;width:26.6%;text-align:center;overflow:hidden;height:40px;}
+.guide em{font-style:normal; color:#d9534f;}
+.guide .list-group .list-group-item a{color:#07d;}
+.guide .list-group .list-group-item{padding-top:20px;}
+.guide .img{margin-bottom:15px; display:inline-block; border:1px solid #cccccc;padding:3px;}
+.guide .con{padding: 10px 30px;}
+	
+textarea{
+	width: 400px;
+    height: 90px;
+}
+input:focus,textarea:focus {
+	outline: none;
+	border:1px solid #368EE0;
+}
+.Validform_title{display:none;}
+.Validform_error {
+    background-color: #ffe7e7;
+}
+.Validform_wrong {
+    color: red;
+    padding-left: 20px;
+    white-space: nowrap;
+    background: url(../images/error.png) no-repeat left center;
+}
+.Validform_right {
+    color: #71b83d;
+    padding-left: 20px;
+    background: url(../images/right.png) no-repeat left center;
+}
+.board {
+  background: url("../images/bg_repno.gif") no-repeat scroll 0 0 transparent;
+  padding-left: 55px;
+}
